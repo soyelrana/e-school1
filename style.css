@@ -1,0 +1,95 @@
+.banner{
+    position: relative;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background: #f0fff0;
+}
+.sign-in-button{
+    margin-top: 5px;
+    background-image: linear-gradient(to bottom, #21b573 0%, #21b573 100%);
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 3px 15px;
+    cursor: pointer;
+}
+.menu-font-size{
+    font-weight: bold;
+}
+.are-you{
+    padding: 45px;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: normal;
+}
+.ready-learn{
+     color:#FD511A;
+     text-align: left;
+}
+h1{
+    font-family: poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 45px;
+}
+.get-started{
+    background-image: linear-gradient(to bottom, #21b573 0%, #21b573 100%);
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+.card{
+    padding-top: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(243, 241, 241);
+}
+.online-courses{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bold;
+    padding: 40px;
+}
+.buy-course{
+    background-image: linear-gradient(to bottom, #21b573 0%, #21b573 100%);
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+.man-img img{
+    float: right;
+    padding: 0px 0px 20px 0px;
+}
+.testimonial{
+    text-align: center;
+    font-family: poppins;
+    font-weight: bold;
+    padding: 50px;
+}
+.testi-write{
+    padding-top: 20px;
+}
+.milions-people{
+    padding: 25px 170px 25px 130px;
+}
+.bottom-background{
+    background-size: cover;
+    background: #282531;
+    color: #fff;
+}
+.bottom-link{
+    padding: 25px;
+}
+.copy-right{
+    text-align: center;
+}
+
+
+
+
