@@ -42,7 +42,7 @@ h1{
     padding: 6px 20px;
     cursor: pointer;
 }
-.card{
+.card :hover{
     padding-top: 20px;
     border: none;
     border-radius: 10px;
